@@ -1,0 +1,8 @@
+Enter a sentence: 元気ですか？
+
+--- Language Detection Result ---
+Input Text: 元気ですか？
+Detected Language Code: ja
+Language Name: Japanese
+Commonly Used In: Japan
+Translation to English: how are you?

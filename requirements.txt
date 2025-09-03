@@ -1,0 +1,14 @@
+langdetect
+deep-translator
+pycountry
+
+pip show langdetect
+pip show deep-translator
+pip show pycountry
+
+langdetect==1.0.9
+deep-translator==1.10.1
+pycountry==22.3.5
+
+pip install requests (optional)
+
